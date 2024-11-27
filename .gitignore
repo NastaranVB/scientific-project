@@ -1,0 +1,11 @@
+!.gitkeep
+**/.ipynb_checkpoints/
+**/pytest_cache/
+**/.history/**
+**/.coverage*
+!.coveragerc
+**/__pycache__/
+*.egg-info
+*.pyc
+
+**/.pytest_cache/
